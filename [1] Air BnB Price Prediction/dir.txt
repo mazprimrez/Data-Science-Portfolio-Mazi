@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir="D:\Project\Data Science Portfolio\[1] Air BnB Price Prediction"
